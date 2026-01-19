@@ -1,5 +1,7 @@
 # Arcade-Sound-FX-Box-Raspberry-Pi-Pico
 
+![Arcade Sound FX Box](images/image.jpg)
+
 ## Overview
 The Arcade Sound FX Box is a fun embedded project using a Raspberry Pi Pico, 3 push buttons, and 3 LEDs.
 Each button triggers a unique retro sound effect, while the corresponding LED lights up during playback. The design mimics classic arcade machines, making it both educational and visually engaging.
